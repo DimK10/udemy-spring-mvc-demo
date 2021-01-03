@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-mvc-demo">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/spring-mvc-demo</output-path>
+    <root id="root" />
+  </artifact>
+</component>
